@@ -1,2 +1,2 @@
 # Frvr
-It is a frvr project.
+It is a frvr project demo
